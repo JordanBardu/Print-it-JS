@@ -1,0 +1,2 @@
+Lien GitHub : https://github.com/JordanBardu/Print-it-JS
+Lien GitHub Pages : https://jordanbardu.github.io/Print-it-JS/
